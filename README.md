@@ -1,3 +1,3 @@
 # Mein erstes Repositorium
 - Viktor Fijacko
-22.03.2022
+2022-03-22
